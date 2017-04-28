@@ -10,4 +10,4 @@ int main(int argc, char **argv)
 void mothod()
 {
 	cout << "mothod" << endl;
-}
+}xxxxx
